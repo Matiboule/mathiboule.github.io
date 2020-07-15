@@ -1,0 +1,6 @@
+- name: Accueil
+  link: /
+- name: Recettes
+  link: /recettes/
+- name: Créations
+  link: /creations/
