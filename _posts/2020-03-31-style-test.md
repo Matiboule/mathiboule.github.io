@@ -45,9 +45,9 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-This is a [link](/assets/images/Mathias.jpg)
+This is a [link]({{ site.baseurl }}/assets/images/Mathias.jpg)
 
-![Image](/assets/images/Mathias.jpg)
+![Image]({{ site.baseurl }}/assets/images/Mathias.jpg)
 
 Colons can be used to align columns.
 
