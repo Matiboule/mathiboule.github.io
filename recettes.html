@@ -4,7 +4,7 @@ layout: default
 
 {% for category in site.categories %}
 	<div class="category">
-		<h2>{{ category }}</h2>
+		<h2>{{ category[0] | capitalize }}</h2>
 		<div class="recipes row">
 			{% for recipe in category[1] %}
 				<div class="recipe" style="background-image: url('{{ recipe.image }}')">
