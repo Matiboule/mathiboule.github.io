@@ -3,7 +3,7 @@ date: 2020-03-31
 title: Style test
 categories:
   - vivant
-image: {{/assets/images/Mathias.jpg | relative_url }}
+image: /assets/images/Mathias.jpg
 recipe:
   servings: 1 style
   rest: 1 minute
